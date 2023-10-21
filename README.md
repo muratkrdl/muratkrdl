@@ -6,7 +6,6 @@
 - ⚡ Fun fact: I love to play computer games and play electric guitar
 
 ✨  About Me
-
 I am a Jr. Game Developer
 
 <!--
